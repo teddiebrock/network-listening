@@ -13,20 +13,20 @@ navbar_entries:
 
 project_entries:
 
-  - title: <i>Port of Being, </i>"Container," p. 7
-    url: overview-post
+  - title: <i>Port of Being; </i>Container, p. 7
+    url: container-p07
     desc: Starbucks, Water St.; Port of Vancouver
     
-  - title: <i>Port of Being, </i>"Container," p. 8
-    url: overview-post
+  - title: <i>Port of Being; </i>Container, p. 8
+    url: container-p08
     desc: Great Canadian Superstore, Rupert St.; Lantic/Rogers Sugar Refinery     
 
-  - title: <i>Port of Being, </i>"Container," p. 10
-    url: overview-post
+  - title: <i>Port of Being; </i>Container, p. 10
+    url: container-p10
     desc: Harbour Centre, West Hastings St.
 
-  - title: <i>Port of Being, </i>"Container," p. 11
-    url: columbia-street
+  - title: <i>Port of Being; </i>Container, p. 11
+    url: container-p11
     desc: Columbia St., New Westminster
 
   
