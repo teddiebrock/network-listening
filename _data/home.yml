@@ -1,70 +1,49 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: preface
+    url: preface
 
-  - title: blog
-    url: blog
+  - title: network poetics
+    url: network-poetics
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: mapping 'algorythms'
+    url: mapping-algorythms
+
+  - title: works cited
+    url: works-cited
 
 project_entries:
-  - title: Columbia Street
+
+  - title: <i>Port of Being, </i>"Container," p. 7
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
+    desc: Starbucks, Water St.; Port of Vancouver
+    
+  - title: <i>Port of Being, </i>"Container," p. 8
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Great Canadian Superstore, Rupert St.; Lantic/Rogers Sugar Refinery     
 
-  - title: Project 3
+  - title: <i>Port of Being, </i>"Container," p. 10
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Harbour Centre, West Hastings St.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: <i>Port of Being, </i>"Container," p. 11
+    url: columbia-street
+    desc: Columbia St., New Westminster
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+ 
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: detektor
+    url: http://www.1010.co.uk/org/detektor.html
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/teddiebrock
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/teddiebrock
 
 misc_entries:
   - title: this is an example vertical list
@@ -77,7 +56,7 @@ misc_entries:
     url: false
 
   - title: Blog posts
-    post_list: true
+    post_list: false
     url: false
 
   - title: moonwalk on the Internet
