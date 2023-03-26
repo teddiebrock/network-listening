@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: preface
+  - title: 00 preface
     url: preface
 
-  - title: network poetics
+  - title: 01 network poetics
     url: network-poetics
 
-  - title: mapping 'algorythms'
+  - title: 02 mapping 'algorythms'
     url: mapping-algorythms
 
   - title: works cited
@@ -13,19 +13,19 @@ navbar_entries:
 
 project_entries:
 
-  - title: <i>Port of Being; </i>Container, p. 7
+  - title: <i>Port of Being</i> (Container p. 7)
     url: container-p07
     desc: Starbucks, Water St.; Port of Vancouver
     
-  - title: <i>Port of Being; </i>Container, p. 8
+  - title: <i>Port of Being</i> (Container p. 8)
     url: container-p08
     desc: Great Canadian Superstore, Rupert St.; Lantic/Rogers Sugar Refinery     
 
-  - title: <i>Port of Being; </i>Container, p. 10
+  - title: <i>Port of Being</i> (Container p. 10)
     url: container-p10
     desc: Harbour Centre, West Hastings St.
 
-  - title: <i>Port of Being; </i>Container, p. 11
+  - title: <i>Port of Being</i> (Container p. 11)
     url: container-p11
     desc: Columbia St., New Westminster
 
