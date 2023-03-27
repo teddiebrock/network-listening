@@ -6,7 +6,7 @@ title: About
 <h2>Listening to the Inaudible: Navigating Networks Through Poetry and Field Recording</h2>
 
  
-Through its focus on Vancouver’s geography as a port city, the poems in Shazia Hafiz Ramji’s <i>Port of Being</i> examine the interplay between intimacy and distance, sight and sound, and the human and the non-human, thus constructing a simultaneously spatial, sonic, and affectual map of possibilities for re-orienting oneself in relation to technological and social infrastructure.
+Within the context of Vancouver’s geography as a port city, the poems in Shazia Hafiz Ramji’s <i>Port of Being</i> examine the interplay between intimacy and distance, sight and sound, and the human and the non-human, thus constructing a simultaneously spatial, sonic, and affectual map of possibilities for re-orienting oneself in relation to technological and social infrastructure.
 
 While Ramji draws attention to the role of sound and listening in her own poetic-compositional practice, which she contextualizes in the collection’s notes, the section titled “Container” most overtly engages with practices of documentary field recording. These poems catalogue and reconfigure the assortment of agents, social forces, and material structures that constitute the city as a multilayered network of relations. 
 
