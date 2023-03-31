@@ -10,4 +10,4 @@ Drawing from Shazia Hafiz Ramji’s 2018 poetry collection <i> Port of Being,</i
 
 ![vancouver map - labels](/images/vancouver_map_labels.png)
 
-<i>The map images included throughout this website are taken from Google Maps and Google Earth. Note that these images are overwhelmingly reflective of settler-colonialist relationships to land. For maps that more accurately represent Indigenous treaties, languages, and territories, visit the [Native Land Digital](www.native-land.ca) project.
+<i>The map images included throughout this website are taken from Google Maps and Google Earth. Note that these images are overwhelmingly reflective of settler-colonialist relationships to land. For maps that more accurately represent Indigenous treaties, languages, and territories, visit the [Native Land Digital](https://native-land.ca/) project.
