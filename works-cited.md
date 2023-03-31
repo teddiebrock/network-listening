@@ -27,6 +27,6 @@ title: Works Cited
 
 * Szendy, Peter. <i>All Ears: The Aesthetics of Espionage.</i> Fordham University Press, 2016.
 
-* Szendy, Peter. <i>Listen a History of Our Ears.</i> Fordham University Press, 2008.
+* Szendy, Peter. <i>Listen: A History of Our Ears.</i> Fordham University Press, 2008.
 
 * Toscano, Alberto and Jeff Kinkle. <i>Cartographies of the Absolute.</i> Zero Books, 2015.
